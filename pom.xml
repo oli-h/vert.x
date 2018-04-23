@@ -20,7 +20,7 @@
   </parent>
 
   <artifactId>vertx-core</artifactId>
-  <version>3.6.0-SNAPSHOT</version>
+  <version>3.5.1-fixForISA-httpClientKeepAlive</version>
 
   <name>Vert.x Core</name>
 
